@@ -13,7 +13,7 @@ Bike information for your area.
 * In the command line, clone this repository
 * Navigate into the directory and use command $ npm install
 * In the root directory, create an .env file
-* Get an API key from https://bikeindex.org/documentation/api_v3 and add it to your .env fil as API_KEY: [your key]
+* Get an API key from https://bikeindex.org/documentation/api_v3 and add it to your .env fil as API_KEY = [your key]
 * To open the application in Chrome, use command $ npm run start
 * To run the test suite, use command $ npm test
 
